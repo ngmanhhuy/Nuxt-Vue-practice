@@ -10,7 +10,9 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "gsap": "^3.12.5",
     "nuxt": "^3.14.159",
+    "sass": "^1.81.0",
     "vue": "latest",
     "vue-router": "latest"
   }
