@@ -2,6 +2,7 @@
     <div>
         Hello from Profile/index.vue component.
     </div>
+    <ProfileHeaderAvatar />
 </template>
 
 <script>

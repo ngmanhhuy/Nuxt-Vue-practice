@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="Main">
         Hello from index.vue
     </div>
     <Profile />

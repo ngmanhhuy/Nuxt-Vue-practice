@@ -1,5 +1,5 @@
 <template>
-  
+    <div>Avatar of Profile Header</div>
 </template>
 
 <script>
