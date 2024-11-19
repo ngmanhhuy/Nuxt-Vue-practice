@@ -1,5 +1,8 @@
 <template>
   <div>
-    Hello from app.vue!
+    <NuxtLayout>
+      <Header />
+      <NuxtPage />
+    </NuxtLayout>
   </div>
 </template>
